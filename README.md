@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
 You can use the [editor on GitHub](https://github.com/lenkaupert/CSPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,10 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[This is me!](https://ibb.co/Wtnm4g0) and ![This is me!](https://ibb.co/Wtnm4g0)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
