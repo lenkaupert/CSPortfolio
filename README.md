@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-[This is me!](https://ibb.co/Wtnm4g0) and ![This is me!](https://ibb.co/Wtnm4g0)
+[This is me!](https://ibb.co/Wtnm4g0) and ![This is me!](https://i.ibb.co/ZmdqpWS/IMG-2255.png)
 
 You can use the [editor on GitHub](https://github.com/lenkaupert/CSPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
