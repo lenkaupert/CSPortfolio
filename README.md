@@ -1,5 +1,7 @@
 ## Welcome to my page
 
+[This is me!](https://ibb.co/Wtnm4g0) and ![This is me!](https://ibb.co/Wtnm4g0)
+
 You can use the [editor on GitHub](https://github.com/lenkaupert/CSPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[This is me!](https://ibb.co/Wtnm4g0) and ![This is me!](https://ibb.co/Wtnm4g0)
+[link](url) and ![image](src)
 ```
 
 
